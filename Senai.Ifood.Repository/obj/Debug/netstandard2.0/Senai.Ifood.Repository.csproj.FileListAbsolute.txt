@@ -1,0 +1,10 @@
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\bin\Debug\netstandard2.0\Senai.Ifood.Repository.deps.json
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\bin\Debug\netstandard2.0\Senai.Ifood.Repository.dll
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\bin\Debug\netstandard2.0\Senai.Ifood.Repository.pdb
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\bin\Debug\netstandard2.0\Senai.Ifood.Domain.dll
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\bin\Debug\netstandard2.0\Senai.Ifood.Domain.pdb
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\obj\Debug\netstandard2.0\Senai.Ifood.Repository.csproj.CoreCompileInputs.cache
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\obj\Debug\netstandard2.0\Senai.Ifood.Repository.AssemblyInfoInputs.cache
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\obj\Debug\netstandard2.0\Senai.Ifood.Repository.AssemblyInfo.cs
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\obj\Debug\netstandard2.0\Senai.Ifood.Repository.dll
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Repository\obj\Debug\netstandard2.0\Senai.Ifood.Repository.pdb

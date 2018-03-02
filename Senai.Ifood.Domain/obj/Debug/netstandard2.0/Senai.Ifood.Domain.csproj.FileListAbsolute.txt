@@ -1,0 +1,16 @@
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.AssemblyInfoInputs.cache
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.AssemblyInfo.cs
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.deps.json
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.dll
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.pdb
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.dll
+C:\Users\caioc\Documents\SENAI\Senai.Ifood.Solution\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.pdb
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.deps.json
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.dll
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\bin\Debug\netstandard2.0\Senai.Ifood.Domain.pdb
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.AssemblyInfoInputs.cache
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.AssemblyInfo.cs
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.dll
+C:\Users\40809588897\Desktop\Programar\2018\UltimaSemana\senaifood\Senai.Ifood.Domain\obj\Debug\netstandard2.0\Senai.Ifood.Domain.pdb

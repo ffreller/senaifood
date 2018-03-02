@@ -1,0 +1,1 @@
+dotnet sln add "Senai.Ifood.Domain/Senai.Ifood.Domain.csproj";dotnet sln add "Senai.Ifood.Repository/Senai.Ifood.Repository.csproj";dotnet sln add "Senai.Ifood.WebApi/Senai.Ifood.WebApi.csproj"
